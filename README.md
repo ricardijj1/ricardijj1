@@ -1,16 +1,15 @@
 ## Hi there 👋
+My name is Ricardi!
+I am currently a fellow at The Knowledge House Data Science Innovation Fellowship, where I am learning foundational skills essential for an entry-level data or software specialist role. My goal is to combine my newfound data science knowledge with my background in graphic design.
 
-<!--
-**ricardijj1/ricardijj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning Skills:
+Python: Data ingestion, manipulation, and storage.
+Pandas: Data manipulation to prepare for large-scale analysis and predictive modeling.
+SQL: Querying and managing structured data.
 
-Here are some ideas to get you started:
+🔭 Current Projects:
+Analyzing basketball statistics to explore player efficiency and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Contact Me
+📩 Email: Ricardijacquet@gmail.com
